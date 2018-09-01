@@ -6,3 +6,6 @@ dist
 coverage
 winners
 .vs
+bin
+obj
+sacnner-convert-vs.njsproj

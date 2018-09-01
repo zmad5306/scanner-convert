@@ -1,4 +1,3 @@
-
 const speechService = require('ms-bing-speech-service');
 
 const args = process.argv.slice(2);
