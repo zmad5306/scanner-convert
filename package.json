@@ -9,11 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "microsoft-speech-browser-sdk": "0.0.12",
     "ms-bing-speech-service": "^2.0.4",
     "npm": "^6.4.0"
   },
   "devDependencies": {
+    "@types/node": "^10.9.4",
     "ts-node": "^7.0.1",
     "typescript": "^3.0.1"
   }
